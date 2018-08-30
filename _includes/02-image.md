@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pizza](http://s3-media2.ak.yelpcdn.com/bphoto/KhySuMN0Qxr1FEJGOikbVg/l.jpg)
