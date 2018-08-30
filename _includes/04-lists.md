@@ -1,0 +1,3 @@
+- Kuma
+- Kumas 
+- Pizza
